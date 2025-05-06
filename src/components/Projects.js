@@ -14,7 +14,7 @@ export default function Projects() {
             {
                 image: websiteImg2,
                 description: 'Demonstration of lifecycles in react',
-                link: 'https://github.com/jvlcode/food'
+                link: 'https://github.com/Yoyo-Hecker123/lifecycle-demo'
             },
             {
                 image: websiteImg3,
